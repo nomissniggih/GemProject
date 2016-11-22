@@ -1,4 +1,5 @@
 // GemProject.cpp : Defines the entry point for the console application.
+//I am trying to get rid of the additional files
 //
 
 #include "stdafx.h"
